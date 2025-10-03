@@ -1,4 +1,3 @@
-
 def encrypt():
     message=input("Type in your message: ")
     shift=int(input("Enter shift: "))
