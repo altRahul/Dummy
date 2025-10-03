@@ -1,5 +1,4 @@
 #Hangman:
-
 #Selecting a random word
 import random
 random_word_list=["WORLD","EARTH","PLANETS","GALAXY","SUN","MOON"]
